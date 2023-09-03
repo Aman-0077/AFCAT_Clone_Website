@@ -89,13 +89,11 @@ include('header.php');
 
 	<div class="font-serif video-controls-box" id="news"
 		style="background: linear-gradient(109.6deg, rgb(36, 45, 57) 11.2%, rgb(16, 37, 60) 51.2%, rgb(0, 0, 0) 98.6%); display: flex; height: 50px; align-items: flex-end; border-bottom:0.5px solid black;">
-		<marquee behavior="" direction="" style="color: white; margin: 10px;">Lorem ipsum dolor sit amet
-			consectetur, adipisicing elit. Ratione iusto
-			quis vel recusandae quae porro amet culpa? Expedita, sint necessitatibus! Lorem ipsum dolor sit amet,
-			consectetur adipisicing elit. Illo, nisi quae vero in tenetur voluptas, dicta voluptate natus ad aut
-			numquam sint fuga rem expedita deleniti non a vitae dignissimos quo odit, veniam corrupti reprehenderit
-			sed! Exercitationem quas necessitatibus enim voluptatem. Sint aliquid laboriosam molestiae inventore et,
-			recusandae nesciunt. Quam?</marquee>
+		<marquee behavior="" direction="" style="color: white; margin: 10px;"> Admit Card for AFCAT 02/2023 is available
+			for download through Candidate Login from 10th Aug 2023 (05:00 PM) onward.Please verify the details
+			specifically Name, DoB, Gender, Aadhar Number, Photograph and Signature. || Read complete instructions
+			carefully to avoid any inconvenience later. || ADVERTISEMENT for AFCAT 02/2023 (in English). || To download
+			Notification || Instructions for AFCAT 02/2023.</marquee>
 	</div>
 
 
@@ -234,38 +232,45 @@ include('header.php');
 
 	<div class="col-sm-6 col-sm-offset-3"
 		style="margin-left:280px; background-color:rgb(240, 60, 60); border-radius:10px;">
-		<h2 class="module-title font-alt" id="news" style="color: white; margin-bottom: 20px; font-size: 30px;font-weight:bold;">
+		<h2 class="module-title font-alt" id="news"
+			style="color: white; margin-bottom: 20px; font-size: 30px;font-weight:bold;">
 			News</h2>
 	</div>
 	<div id="newsUp" style="padding-left:50px; color:cyan;width:100%;">
-		<marquee behavior="" direction="up" scrollamount="4">
+		<marquee behavior="" direction="up" scrollamount="3">
 			<ul>
-				<li style="margin-bottom:10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, dolores?Lorem ipsum dolor sit amet
-					consectetur adipisicing elit. Veniam facere aut labore inventore unde eaque!</li>
-				<li style="margin-bottom:10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, dolores?Lorem ipsum dolor sit amet
-					consectetur, adipisicing elit. Culpa iusto, nulla quod veritatis asperiores reiciendis? Blanditiis
-					et eveniet odit ab.</li>
-				<li style="margin-bottom:10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, dolores?Lorem ipsum, dolor sit
-					amet consectetur adipisicing elit. Veniam aut velit placeat nulla adipisci sit reiciendis. Vel eos
-					ut similique.</li>
-				<li style="margin-bottom:10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, dolores?Lorem ipsum dolor, sit
-					amet consectetur adipisicing elit. Possimus, eveniet suscipit sit atque ducimus necessitatibus!
-					Distinctio a expedita commodi rem numquam minima quos rerum id.</li>
-				<li style="margin-bottom:10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, dolores?Lorem ipsum, dolor sit
-					amet consectetur adipisicing elit. Assumenda consequuntur accusamus dolor laborum odit natus?</li>
-				<li style="margin-bottom:10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, dolores?</li>
-				<li style="margin-bottom:10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, dolores?Lorem ipsum dolor sit amet
-					consectetur adipisicing elit. Ipsam fugit a minima, neque eum et, maiores accusantium nulla,
-					doloribus ab eius. Assumenda atque tempore totam?</li>
-				<li style="margin-bottom:10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, dolores?Lorem ipsum dolor sit amet
-					consectetur adipisicing elit. Qui iure vero hic aspernatur dignissimos architecto velit pariatur
-					rem, libero deleniti neque corrupti quidem nesciunt ducimus adipisci aliquam ea fugiat sapiente.
-				</li>
-				<li style="margin-bottom:10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, dolores?</li>
-				<li style="margin-bottom:10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, dolores?Lorem ipsum dolor sit amet
-					consectetur, adipisicing elit. Repellendus, aperiam? Dolorem atque dolore odio doloremque
-					exercitationem laudantium inventore omnis consectetur, ullam sequi quidem ipsum nam a nobis placeat
-					repellendus nesciunt.</li>
+				<li style="margin-bottom:25px;">ADMIT CARD FOR AFCAT 02/2023 IS AVAILABLE FOR DOWNLOAD THROUGH CANDIDATE
+					LOGIN FROM 10TH AUG 2023 (05:00 PM) ONWARD &nbsp;&nbsp;&nbsp;<span style="color:red; ">[ NEW
+						]</span></li>
+
+				<li style="margin-bottom:25px;">PLEASE VERIFY THE DETAILS SPECIFICALLY NAME, DOB, GENDER, AADHAR NUMBER,
+					PHOTOGRAPHAND SIGNATURE. READ COMPLETE INSTRUCTIONS CAREFULLY TO AVOID ANY INCONVENIENCE LATER.
+					&nbsp;&nbsp;&nbsp;<span style="color:red; ">[ NEW ]</span></li>
+
+				<li style="margin-bottom:25px;">
+					ADVERTISEMENT FOR AFCAT 02/2023 (IN ENGLISH). &nbsp;&nbsp;&nbsp;<span style="color:red; ">[ NEW
+						]</span></li>
+
+				<li style="margin-bottom:25px;">
+					ADVERTISEMENT FOR AFCAT 02/2023 (IN HINDI). &nbsp;&nbsp;&nbsp;<span style="color:red; ">[ NEW
+						]</span></li>
+
+				<li style="margin-bottom:25px;">TO DOWNLOAD NOTIFICATION / INSTRUCTIONS FOR AFCAT 02/2023.
+					&nbsp;&nbsp;&nbsp;<span style="color:red; ">[ NEW ]</span></li>
+
+				<li style="margin-bottom:25px;">
+					Indian Air Force AFCAT 02/2022 Result 2022 - Result Released</li>
+
+				<li style="margin-bottom:25px;">Indian Air Force AFCAT 01/2023 - Written Exam Result Released</li>
+
+				<li style="margin-bottom:25px;">
+					Indian Air Force AFCAT (01/2022) Result 2022 - Merit List Released</li>
+
+				<li style="margin-bottom:25px;">
+					Indian Air Force AFCAT Result 2021- Online Final Result Released</li>
+
+				<li style="margin-bottom:25px;">AFCAT (01/2021) Result 2022 - Final Merit List Released</li>
+
 			</ul>
 		</marquee>
 	</div>

@@ -31,7 +31,6 @@
 	<link rel="stylesheet" href="assets/css/customcss.css" type="text/css">
 	<link rel="icon" type="image/png" sizes="16x16" href="img/favicons/iaf.png">
 	<style type="text/css">
-		
 		.modal-content {
 			padding: 0;
 		}
@@ -103,7 +102,7 @@
 
 		h4 {
 			font-weight: 700;
-			
+
 		}
 
 		@media (max-width :768px) {
@@ -190,8 +189,9 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse justify-content-center" id="navbarNav"
 							style="background:#112;">
-							<ul class="navbar-nav" >
-								<li class="nav-item"><a class="nav-link <?php echo $home; ?>" href="index.php" style="font-size:1em;">Home</a>
+							<ul class="navbar-nav">
+								<li class="nav-item"><a class="nav-link <?php echo $home; ?>" href="index.php"
+										style="font-size:1em;">Home</a>
 								</li>
 								<!-- <li style="color: white !important;" class="nav-item dropdown"><a href="#"
 										class="nav-link dropdown-toggle iafActive" data-bs-toggle="dropdown"
@@ -210,42 +210,44 @@
 								<li style="color: white !important;" class="nav-item dropdown"><a href="#"
 										class="nav-link dropdown-toggle iafActive" data-bs-toggle="dropdown"
 										aria-expanded="false" style="font-size:1em;">Career</a>
-									<ul class="dropdown-menu">
+									<!-- <ul class="dropdown-menu">
 										<li><a class="dropdown-item" href="#">Overview</a></li>
 										<li><a class="dropdown-item" href="#">Career - NDA
 											</a></li>
 										<li><a class="dropdown-item" href="#">Career - As per Branches</a></li>
 										<li><a class="dropdown-item" href="#">Career - As per Qualification</a></li>
 
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav-item dropdown"><a href="#" class="nav-link dropdown-toggle casbActive"
 										data-bs-toggle="dropdown" aria-expanded="false" style="font-size:1em;">AFCAT</a>
-									<ul class="dropdown-menu">
+									<!-- <ul class="dropdown-menu">
 										<li><a href="#">About</a></li>
 										<li><a href="#">History of IAF</a></li>
 										<li><a href="#">Marshal of IAF</a></li>
 										<li><a href="#">Legends of IAF</a></li>
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav-item dropdown"><a href="#" class="nav-link dropdown-toggle casbActive"
-										data-bs-toggle="dropdown" aria-expanded="false" style="font-size:1em;">Life in IAF</a>
-									<ul class="dropdown-menu">
+										data-bs-toggle="dropdown" aria-expanded="false" style="font-size:1em;">Life in
+										IAF</a>
+									<!-- <ul class="dropdown-menu">
 										<li><a href="#">Adventure</a></li>
 										<li><a href="#">Growth</a></li>
 										<li><a href="#">Live It</a></li>
-									</ul>
+									</ul> -->
 								</li>
 								<li class="nav-item dropdown"><a href="#" class="nav-link dropdown-toggle airmanActive"
-										data-bs-toggle="dropdown" aria-expanded="false" style="font-size:1em;">SELECTION</a>
-									<ul class="dropdown-menu">
+										data-bs-toggle="dropdown" aria-expanded="false"
+										style="font-size:1em;">SELECTION</a>
+									<!-- <ul class="dropdown-menu">
 										<li><a class="dropdown-item" href="#">Selection Process</a></li>
 										<li><a class="dropdown-item" href="#">Eligibility Criteria</a></li>
 										<li><a class="dropdown-item" href="#">Physical and Medical Standards</a></li>
 										<li><a class="dropdown-item" href="#">Pay
 												and Perks</a></li>
 										<li><a class="dropdown-item" href="#">Guidelines for Candidates</a></li>
-									</ul>
+									</ul> -->
 								</li>
 
 								<!-- <li class="nav-item"><a class="nav-link contactActive" href="#" style="font-size:1em;">Training</a></li> -->
@@ -254,14 +256,22 @@
 										class="nav-link dropdown-toggle candidateActive" data-bs-toggle="dropdown"
 										aria-expanded="false" style="font-size:1em;">CANDIDATE</a>
 									<ul class="dropdown-menu">
-										<li><a class="dropdown-item" href="dbfiles/admin_login/admin/adminlogin.php" target="_blank">Admin Login</a></li>
-										<li><a class="dropdown-item" href="dbfiles/user_login/candidate/userlogin.php" target="_blank">Candidate Login</a></li>
-										<li><a class="dropdown-item" href="dbfiles/user_login/candidate/user_registration/candidate/register.php" target="_blank">AFCAT 01/2023</a></li>
-										<li><a class="dropdown-item" href="dbfiles/user_login/candidate/user_registration/candidate/register.php" target="_blank">AFCAT 02/2023</a></li>
+										<li><a class="dropdown-item" href="dbfiles/admin_login/admin/adminlogin.php"
+												target="_blank">Admin Login</a></li>
+										<li><a class="dropdown-item" href="dbfiles/user_login/candidate/userlogin.php"
+												target="_blank">Candidate Login</a></li>
+										<li><a class="dropdown-item"
+												href="dbfiles/user_login/candidate/user_registration/candidate/register.php"
+												target="_blank">AFCAT 01/2023</a></li>
+										<li><a class="dropdown-item"
+												href="dbfiles/user_login/candidate/user_registration/candidate/register.php"
+												target="_blank">AFCAT 02/2023</a></li>
 
-										<li><a class="dropdown-item" href="dbfiles/user_login/candidate/user_registration/candidate/register.php" target="_blank">Agniveervayu
+										<li><a class="dropdown-item"
+												href="dbfiles/user_login/candidate/user_registration/candidate/register.php"
+												target="_blank">Agniveervayu
 												Intake 02/2023</a></li>
-										<li><a class="dropdown-item" href="#">Terms,
+										<!-- <li><a class="dropdown-item" href="#">Terms,
 												Meaning and General Instructions</a></li>
 
 										<li><a class="dropdown-item" href="#">Guidelines
@@ -277,7 +287,7 @@
 												Option and Procedure</a></li>
 
 										<li><a class="dropdown-item" href="#">List
-												of Education Boards</a></li>
+												of Education Boards</a></li> -->
 									</ul>
 								</li>
 								<!--  -->
@@ -293,7 +303,8 @@
 
 								<li class="nav-item"><a class="nav-link <?php echo $contact; ?>
 				" href="contact.php" style="font-size:1em;">Contact</a></li>
-								<li class="nav-item <?php echo $faq; ?>"><a class="nav-link" href="faq.php" style="font-size:1em;">FAQ</a></li>
+								<li class="nav-item <?php echo $faq; ?>"><a class="nav-link" href="faq.php"
+										style="font-size:1em;">FAQ</a></li>
 								<li class="nav-item"><a class="nav-link" href="https://indianairforce.nic.in/"
 										target="_blank" style="font-size:1em;">IAF Home</a></li>
 							</ul>
